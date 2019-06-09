@@ -1,5 +1,5 @@
 # react-without-react-scripts
-react configuration without create-react-app and react-scripts
+basit react configuration without create-react-app and react-scripts
 
 # setup
 npm install react react-dom  
